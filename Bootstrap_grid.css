@@ -1,0 +1,22 @@
+.passaro{width: 50px;
+border-radius: 100%;}
+
+.F{width: 50px;}
+
+ .row{margin: 15px;
+}
+
+#rodapé{border: blue 1px solid;
+padding: 10px;
+background-color: coral;}
+
+#documento{border: green 1px solid;}
+
+#midia{border: red 1px solid;}
+
+#carrosel{border: yellow 1px solid;}
+
+#persona{border: orangered 1px;}
+
+#logo{width: 200px;
+margin-top: 10px;}
